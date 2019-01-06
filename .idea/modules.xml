@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/automatic-lawn-mower.iml" filepath="$PROJECT_DIR$/.idea/modules/automatic-lawn-mower.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/automatic-lawn-mower-build.iml" filepath="$PROJECT_DIR$/.idea/modules/automatic-lawn-mower-build.iml" />
+    </modules>
+  </component>
+</project>
