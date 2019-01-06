@@ -11,7 +11,7 @@ Simulation de tondeuses écrite en Scala
 
 - Test : build.sbt 
 
-***Environnement Technique ***
+***Environnement Technique***
 - Scala version 2.12.8
 - SBT(Scala build tool) version 0.13
 - Git 
