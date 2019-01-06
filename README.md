@@ -31,12 +31,15 @@ Il vous faut entrer la commande sbt run. Il y a ensuite deux cas de figure:
 
 1. Model 
 Dans ce package, nous allons définir les différents objets suivantes : 
+
 *Coordinate : Cette classe nous permettra de représenter des coordonnées ( la position du tondeuze + la taille du jardin )
 *Direction : cette classe représente une direction cardinale oriontale ( North, East, South, West)
 *Mower : cette classe représentate une tondeuse , qui se compose par un objet Coordinate correspondant à la position de la tondeuse ainsi un objet Direction indiquant la direction cardinale à laquelle la tondeuse fait face.
 *Garden : cette classe nous permet de représenter un jardin, elle compte deux champs :( un object Coordinate correspondant aux coordonnées du coin supérieur droit du jardin + une liste de tondeuses)
 
 2.Parser 
+Dans ce package, nous allons définir les différents objets suivantes : 
+
 *Parser : cette classe permettant de parser des listes de chaînes de caractères afin de créer des jardins ou des tondeuses et d'effectuer des actions sur nos tondeuses.
 
 *PrintParser : elle  fourni une méthode générique print , qui prend en paramètre une preuve implicite de l'implantion du PrintParser pour renvoyer la chaîne de caractères correspondante.
